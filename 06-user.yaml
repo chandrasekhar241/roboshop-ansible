@@ -1,0 +1,3 @@
+- name: configure user server
+  hosts: user
+  become: yes
